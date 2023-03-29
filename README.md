@@ -11,7 +11,7 @@ Prerequisites
 An active AWS account with an IAM user already created
 Text editor of your choice (VSCode Recommended)
 Terraform Installed
-As you should know by now, Terraform is an IaC tool that helps to automate processes which increase delivery time of software. In this tutorial, Terraform will be employed in setting up an ec2 instance and deploying an nginx web server on it using bash scripts which will be provided.
+As you should know by now, Terraform is an IaC tool that helps to automate processes which increase delivery time of software. Terraform will be employed in setting up an ec2 instance and deploying an nginx web server on it using bash scripts which will be provided.
 
 Setting up project environment
 First step is to create a folder on your device and open it up in VSCode. We will be creating 3 terraform files for this project;
